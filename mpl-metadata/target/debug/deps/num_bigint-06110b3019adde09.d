@@ -1,0 +1,10 @@
+/Users/jackfisher/Desktop/Audits/mpl-core-audits/mpl-metadata/target/debug/deps/libnum_bigint-06110b3019adde09.rmeta: /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/lib.rs /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/macros.rs /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/bigint.rs /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/biguint.rs /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/algorithms.rs /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/monty.rs
+
+/Users/jackfisher/Desktop/Audits/mpl-core-audits/mpl-metadata/target/debug/deps/num_bigint-06110b3019adde09.d: /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/lib.rs /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/macros.rs /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/bigint.rs /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/biguint.rs /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/algorithms.rs /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/monty.rs
+
+/Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/lib.rs:
+/Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/macros.rs:
+/Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/bigint.rs:
+/Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/biguint.rs:
+/Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/algorithms.rs:
+/Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/monty.rs:

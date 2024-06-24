@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/jackfisher/Desktop/Audits/mpl-core-audits/mpl-metadata/target/debug/build/typenum-f0db3b23eec424ef/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/jackfisher/Desktop/Audits/mpl-core-audits/mpl-metadata/target/debug/build/typenum-f0db3b23eec424ef/out/op.rs

@@ -1,0 +1,3 @@
+cargo:rustc-link-lib=static=ring-core
+cargo:rustc-link-lib=static=ring-test
+cargo:rustc-link-search=native=/Users/jackfisher/Desktop/Audits/mpl-core-audits/mpl-core-testing/mpl-core/target/debug/build/ring-dda5b56a1f6f6514/out

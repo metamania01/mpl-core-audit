@@ -1,0 +1,10 @@
+/Users/jackfisher/Desktop/Audits/mpl-core-audits/mpl-metadata/target/debug/deps/libxattr-b643958c7513cf21.rmeta: /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/lib.rs /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/error.rs /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/mod.rs /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/util.rs /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/linux_macos/mod.rs /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/linux_macos/macos.rs
+
+/Users/jackfisher/Desktop/Audits/mpl-core-audits/mpl-metadata/target/debug/deps/xattr-b643958c7513cf21.d: /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/lib.rs /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/error.rs /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/mod.rs /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/util.rs /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/linux_macos/mod.rs /Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/linux_macos/macos.rs
+
+/Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/lib.rs:
+/Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/error.rs:
+/Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/mod.rs:
+/Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/util.rs:
+/Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/linux_macos/mod.rs:
+/Users/jackfisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/linux_macos/macos.rs:
